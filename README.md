@@ -8,7 +8,7 @@ Essa é uma solução para o [restaurant challenge on W3 Schools](https://www.w3
   - [Screenshot](#screenshot) - [Captura de tela](#captura-de-tela) 
   - [Links](#links)
 - [My process](#my-process)   -   [Meu processo](#meu-processo)
-  - [Built with](#built-with)   -   [Oque eu aprendi](#oque-eu-aprendi)
+  - [Built with](#built-with)   -   [Feito com](#feito-com)
   - [What I learned](#what-i-learned)   -   [Oque eu aprendi](#oque-eu-aprendi)
   - [Continued development](#continued-development)   -   [Desenvolvimento continuo](#desenvolvimento-continuo)
   - [Useful resources](#useful-resources)   -   [Recursos úteis](#recursos-úteis)
@@ -51,6 +51,8 @@ Esse desafio foi ótimo para aprender quando e como usar a tag <div>, as vezes v
 
 In CSS my biggest gain came on how to setup class names and how to use the cascading aspect of CSS to my advantage instead of my fall.
 If I saw that some parts of the code were similar, like the title, then I would create one class and apply to everyone, avoiding repetition, DRY.
+No CSS o meu maior ganho veio em como organizar os nomes das clases e como usar o aspecto da cascada do CSS para a minha vantagem ao invés de uma desvantagem.
+Se eu via que teria algumas partes que o código seria igual, como o titulo, então eu criava uma classe e aplicava para todos, evitando a repetição DRY.
 
 Still CSS - I also learned how to use *flexbox*
 Continuando no CSS - Eu também aprendi como usar *flexbox*
@@ -63,7 +65,7 @@ Eu gostei muito desse projeto :D, o meu desenvolvimento continuo vai ir com *fle
 
 ### Useful resources  -   Recursos Úteis
 - [CSS resource](https://www.w3schools.com/css/default.asp) - This documentation really helped me. It was easy to read and follow, +1000 stars for them.
-- [CSS resource](https://www.w3schools.com/css/default.asp) - Essa documentação realmente me ajudou. Foi fácil de ler e seguir, +1000 estrelas para eles.
+- Essa documentação realmente me ajudou. Foi fácil de ler e seguir, +1000 estrelas para eles.
 
 
 ## Author   -   Autor
