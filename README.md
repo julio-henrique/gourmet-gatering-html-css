@@ -3,16 +3,16 @@ This is a solution to the [restaurant challenge on W3 Schools](https://www.w3sch
 Essa é uma solução para o ['']('') Gourmet Catering Template.
 
 ## Table of contents  -   Tabela de conteudos
-- [Overview](#overview)   -   [Visão Geral]
-  - [The challenge](#the-challenge)   -   [O desafio]
-  - [Screenshot](#screenshot) - [Captura de tela]
+- [Overview](#overview) 
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)   -   [Meu processo]
-  - [Built with](#built-with)   -   [Feito com]
-  - [What I learned](#what-i-learned)   -   [Oque eu aprendi]
-  - [Continued development](#continued-development)   -   [Desenvolvimento continuo]
-  - [Useful resources](#useful-resources)   -   [Recursos úteis]
-- [Author](#author)   -   [Autor]
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Overview   -   Visão Geral
 
