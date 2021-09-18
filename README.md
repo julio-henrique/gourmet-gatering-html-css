@@ -1,18 +1,18 @@
 # W3 Schools - Restaurant solution
 This is a solution to the [restaurant challenge on W3 Schools](https://www.w3schools.com/w3css/w3css_templates.asp) Gourmet Catering Template.
-Essa é uma solução para o [restaurant challenge on W3 Schools](https://www.w3schools.com/w3css/w3css_templates.asp) Gourmet Catering Template.
+Essa é uma solução para o ['']('') Gourmet Catering Template.
 
 ## Table of contents  -   Tabela de conteudos
-- [Overview](#overview)   -   [Visão Geral](#visão-geral)
-  - [The challenge](#the-challenge)   -   [O desafio](#o-desafio) 
-  - [Screenshot](#screenshot) - [Captura de tela](#captura-de-tela) 
+- [Overview](#overview)   -   [Visão Geral]
+  - [The challenge](#the-challenge)   -   [O desafio]
+  - [Screenshot](#screenshot) - [Captura de tela]
   - [Links](#links)
-- [My process](#my-process)   -   [Meu processo](#meu-processo)
-  - [Built with](#built-with)   -   [Feito com](#feito-com)
-  - [What I learned](#what-i-learned)   -   [Oque eu aprendi](#oque-eu-aprendi)
-  - [Continued development](#continued-development)   -   [Desenvolvimento continuo](#desenvolvimento-continuo)
-  - [Useful resources](#useful-resources)   -   [Recursos úteis](#recursos-úteis)
-- [Author](#author)   -   [Autor](#autor)
+- [My process](#my-process)   -   [Meu processo]
+  - [Built with](#built-with)   -   [Feito com]
+  - [What I learned](#what-i-learned)   -   [Oque eu aprendi]
+  - [Continued development](#continued-development)   -   [Desenvolvimento continuo]
+  - [Useful resources](#useful-resources)   -   [Recursos úteis]
+- [Author](#author)   -   [Autor]
 
 ## Overview   -   Visão Geral
 
