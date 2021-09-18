@@ -1,28 +1,28 @@
 # W3 Schools - Restaurant solution
 This is a solution to the [restaurant challenge on W3 Schools](https://www.w3schools.com/w3css/w3css_templates.asp) Gourmet Catering Template.
+Essa é uma solução para o [restaurant challenge on W3 Schools](https://www.w3schools.com/w3css/w3css_templates.asp) Gourmet Catering Template.
 
-
-## Table of contents
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+## Table of contents  -   Tabela de conteudos
+- [Overview](#overview)   -   [Visão Geral](#visão-geral)
+  - [The challenge](#the-challenge)   -   [O desafio](#o-desafio) 
+  - [Screenshot](#screenshot) - [Captura de tela](#captura-de-tela) 
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [My process](#my-process)   -   [Meu processo](#meu-processo)
+  - [Built with](#built-with)   -   [Oque eu aprendi](#oque-eu-aprendi)
+  - [What I learned](#what-i-learned)   -   [Oque eu aprendi](#oque-eu-aprendi)
+  - [Continued development](#continued-development)   -   [Desenvolvimento continuo](#desenvolvimento-continuo)
+  - [Useful resources](#useful-resources)   -   [Recursos úteis](#recursos-úteis)
+- [Author](#author)   -   [Autor](#autor)
 
-## Overview
+## Overview   -   Visão Geral
 
 
 
-### The challenge
+### The challenge   -   O desafio
 - Build out the project based on the website provided
+- Construa o projeto baseado no website que foi providenciado
 
-
-### Screenshot
+### Screenshot   -   Captura de tela
 <img src="full-website.png" alt="screeshot of the full website" />
 
 
@@ -30,18 +30,19 @@ This is a solution to the [restaurant challenge on W3 Schools](https://www.w3sch
 - Live Site URL: (https://julio-henrique.github.io/gourmet-gatering-html-css/)
 
 
-## My process
+## My process   -   Meu processo
 
 
 
-### Built with
+### Built with  - Feito com
 - HTML5 
 - CSS
 - Flexbox
 
 
-### What I learned
-This challenge was great to learn when and how to use the <div> tag, sometimes you want to separate two or more elements in the page, sometimes so that you can apply style, sometimes it's to separate only one element and ect. Like:
+### What I learned  -   Oque eu aprendi
+This challenge was great to learn when and how to use the <div> tag, sometimes you want to separate two or more elements in the page, sometimes so that you can apply style, sometimes it's to separate only one element and etc. Ex:
+Esse desafio foi ótimo para aprender quando e como usar a tag <div>, as vezes você quer usar para separar dois ou mais elementos na página, as vezes apenas para usar um estilo, as vezes é para separar apenas 1 (um) elemento e etc. Ex:
 ```html
 <div>
   <a href="#home" class="home-link">Gourmet au Catering</a>
@@ -51,16 +52,19 @@ This challenge was great to learn when and how to use the <div> tag, sometimes y
 In CSS my biggest gain came on how to setup class names and how to use the cascading aspect of CSS to my advantage instead of my fall.
 If I saw that some parts of the code were similar, like the title, then I would create one class and apply to everyone, avoiding repetition, DRY.
 
-Still CSS - I also learned how to use *flexbox* 
+Still CSS - I also learned how to use *flexbox*
+Continuando no CSS - Eu também aprendi como usar *flexbox*
 
 
-### Continued development
-I really liked this project :D, my continus growth will go with *flexbox*, after seeing how beatiful the project ended I'll continue in this *front-end* path!
+### Continued development   -   Desenvolvimento contínuo
+I really liked this project :D, my continus growth will go with *flexbox*, after seeing how beatiful the project ended, I decided to continue in this *front-end* path!
+Eu gostei muito desse projeto :D, o meu desenvolvimento continuo vai ir com *flexbox*, depois de ver como o projeto ficou tão lindo no final, eu decidi continuar no caminho do *fron-end*
 
 
-### Useful resources
+### Useful resources  -   Recursos Úteis
 - [CSS resource](https://www.w3schools.com/css/default.asp) - This documentation really helped me. It was easy to read and follow, +1000 stars for them.
+- [CSS resource](https://www.w3schools.com/css/default.asp) - Essa documentação realmente me ajudou. Foi fácil de ler e seguir, +1000 estrelas para eles.
 
 
-## Author
+## Author   -   Autor
 - Linkedin - [to add](to add)
