@@ -30,7 +30,7 @@ Essa é uma solução para o ['']('') Gourmet Catering Template.
 - Live Site URL: (https://julio-henrique.github.io/gourmet-gatering-html-css/)
 
 
-## My process   -   Meu processo
+## My process
 
 
 
