@@ -3,26 +3,26 @@ This is a solution to the [restaurant challenge on W3 Schools](https://www.w3sch
 Essa é uma solução para o ['']('') Gourmet Catering Template.
 
 ## Table of contents  -   Tabela de conteudos
-- [Overview](#overview) 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+- [Overview](#overview)   -   Visão Geral
+  - [The challenge](#the-challenge)   -   O desafio
+  - [Screenshot](#screenshot)   -   Captura de tela
   - [Links](#links)
 - [My process](#my-process)   -   [Meu processo]
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [Built with](#built-with)  -  Feito com
+  - [What I learned](#what-i-learned)   -   Oque eu aprendi
+  - [Continued development](#continued-development)   -   Desenvolvimento contínuo
+  - [Useful resources](#useful-resources)  -   Recursos Úteis
 - [Author](#author)
 
-## Overview   -   Visão Geral
+## Overview
 
 
 
-### The challenge   -   O desafio
+### The challenge
 - Build out the project based on the website provided
 - Construa o projeto baseado no website que foi providenciado
 
-### Screenshot   -   Captura de tela
+### Screenshot
 <img src="full-website.png" alt="screeshot of the full website" />
 
 
@@ -34,13 +34,13 @@ Essa é uma solução para o ['']('') Gourmet Catering Template.
 
 
 
-### Built with  - Feito com
+### Built with
 - HTML5 
 - CSS
 - Flexbox
 
 
-### What I learned  -   Oque eu aprendi
+### What I learned
 This challenge was great to learn when and how to use the <div> tag, sometimes you want to separate two or more elements in the page, sometimes so that you can apply style, sometimes it's to separate only one element and etc. Ex:
 Esse desafio foi ótimo para aprender quando e como usar a tag <div>, as vezes você quer usar para separar dois ou mais elementos na página, as vezes apenas para usar um estilo, as vezes é para separar apenas 1 (um) elemento e etc. Ex:
 ```html
@@ -58,15 +58,15 @@ Still CSS - I also learned how to use *flexbox*
 Continuando no CSS - Eu também aprendi como usar *flexbox*
 
 
-### Continued development   -   Desenvolvimento contínuo
+### Continued development
 I really liked this project :D, my continus growth will go with *flexbox*, after seeing how beatiful the project ended, I decided to continue in this *front-end* path!
 Eu gostei muito desse projeto :D, o meu desenvolvimento continuo vai ir com *flexbox*, depois de ver como o projeto ficou tão lindo no final, eu decidi continuar no caminho do *fron-end*
 
 
-### Useful resources  -   Recursos Úteis
+### Useful resources
 - [CSS resource](https://www.w3schools.com/css/default.asp) - This documentation really helped me. It was easy to read and follow, +1000 stars for them.
 - Essa documentação realmente me ajudou. Foi fácil de ler e seguir, +1000 estrelas para eles.
 
 
-## Author   -   Autor
+## Author
 - Linkedin - [to add](to add)
