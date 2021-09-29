@@ -69,4 +69,4 @@ Eu gostei muito desse projeto :D, o meu desenvolvimento continuo vai ir com *fle
 
 
 ## Author
-- Linkedin - [to add](to add)
+- Linkedin - [@Júlio Henrique](www.linkedin.com/in/julio-henriquee)
