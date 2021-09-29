@@ -69,4 +69,4 @@ Eu gostei muito desse projeto :D, o meu desenvolvimento continuo vai ir com *fle
 
 
 ## Author
-- Linkedin - [@Júlio-Henrique](linkedin.com/in/julio-henriquee)
+- Linkedin - [@Júlio-Henrique](https://www.linkedin.com/in/julio-henriquee)
